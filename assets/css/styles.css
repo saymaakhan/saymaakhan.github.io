@@ -323,6 +323,8 @@ img{
 /* ===== FOOTER =====*/
 .footer{
   background-color: var(--second-color);
+  background: url('../img/main/bgnav.gif');
+  box-shadow: 0 1px 4px rgba(146,161,176,.15);
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
