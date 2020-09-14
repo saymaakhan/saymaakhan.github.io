@@ -250,11 +250,8 @@ img{
 .about__subtitle{
   margin-bottom: var(--mb-2);
 }
-.about__img{
-  justify-self: center;
-}
 .about__img img{
-  width: 300px;
+  /*width: 300px;*/
   border-radius: .5rem;
 }
 
